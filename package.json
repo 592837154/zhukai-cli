@@ -51,6 +51,6 @@
     }
   },
   "lint-staged": {
-    "**/*": "echo 1"
+    "**/*": "prettier --write ."
   }
 }

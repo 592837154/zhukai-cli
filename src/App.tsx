@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   const a23 = 1;
   const a1 = 2;
-  const a12 = 2;
+  const a12 =
+    2;
 
   return (
     <div className="App">

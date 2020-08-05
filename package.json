@@ -53,6 +53,6 @@
   },
   "lint-staged": {
     "src/**/*.tsx": ["eslint --fix", "prettier --write"],
-    "src/**/*.less": ["stylelint"]
+    "src/**/*.css": ["prettier --write"]
   }
 }

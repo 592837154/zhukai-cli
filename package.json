@@ -51,6 +51,6 @@
     }
   },
   "lint-staged": {
-    "*.{js,css,md}": "echo 1"
+    "**/*": "echo 1"
   }
 }

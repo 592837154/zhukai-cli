@@ -4,6 +4,7 @@ import logo from "./logo.svg";
 function App() {
   const a23 = 1;
   const a12 = 2;
+
   const asad = a23 + a12;
   console.log(asad);
 

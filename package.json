@@ -52,6 +52,6 @@
     }
   },
   "lint-staged": {
-    "src/**/*.tsx": ["eslint --fix", "prettier --write"]
+    "src/**/*": ["eslint --fix", "prettier --write"]
   }
 }

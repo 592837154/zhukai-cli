@@ -15,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -78,7 +79,7 @@
       <workItem from="1596623374635" duration="107000" />
       <workItem from="1596624153600" duration="185000" />
       <workItem from="1596624536522" duration="1921000" />
-      <workItem from="1596628454818" duration="1501000" />
+      <workItem from="1596628454818" duration="1592000" />
     </task>
     <servers />
   </component>
@@ -105,6 +106,10 @@
       <screen x="337" y="-1417" width="2560" height="1417" />
     </state>
     <state x="801" y="-912" key="#com.intellij.fileTypes.FileTypeChooser/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596622441382" />
+    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596630095423">
+      <screen x="337" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596630095423" />
     <state x="599" y="-1082" key="SettingsEditor" timestamp="1596628899513">
       <screen x="337" y="-1417" width="2560" height="1417" />
     </state>

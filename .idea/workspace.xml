@@ -11,12 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5b1be2-0cc9-4c66-88bd-2cd89c918876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AAA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -61,12 +65,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,14 +115,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="954" y="-822" key="#ESLint" timestamp="1596632010486">
+      <screen x="337" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="954" y="-822" key="#ESLint/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596632010486" />
     <state x="801" y="-912" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596622441382">
       <screen x="337" y="-1417" width="2560" height="1417" />
     </state>
     <state x="801" y="-912" key="#com.intellij.fileTypes.FileTypeChooser/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596622441382" />
-    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596631596783">
+    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596631981449">
       <screen x="337" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596631596783" />
+    <state x="828" y="-967" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/337.-1417.2560.1417/38.23.1642.1027@337.-1417.2560.1417" timestamp="1596631981449" />
     <state x="599" y="-1082" key="SettingsEditor" timestamp="1596628899513">
       <screen x="337" y="-1417" width="2560" height="1417" />
     </state>

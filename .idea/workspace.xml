@@ -13,6 +13,7 @@
     <list default="true" id="eb5b1be2-0cc9-4c66-88bd-2cd89c918876" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
@@ -77,7 +78,7 @@
       <workItem from="1596623374635" duration="107000" />
       <workItem from="1596624153600" duration="185000" />
       <workItem from="1596624536522" duration="1921000" />
-      <workItem from="1596628454818" duration="1026000" />
+      <workItem from="1596628454818" duration="1211000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.less';
 import './App.scss';
 import './AAA.css';
@@ -9,22 +8,7 @@ function App() {
   const asd: any = window;
   const a3 = 'asd2asd';
   asd.a = a + a3;
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>1</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <div>eslint + prettier + huscky + lint-stage</div>;
 }
 
 export default App;

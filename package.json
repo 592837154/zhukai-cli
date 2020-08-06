@@ -61,11 +61,11 @@
   },
   "lint-staged": {
     "src/**/*.tsx": [
-      "echo 1",
-      "echo 12",
+      "echo 开始",
       "node_modules/.bin/prettier --write",
+      "node_modules/.bin/eslint --fix",
       "git add .",
-      "node_modules/.bin/eslint --fix"
+      "echo 结束"
     ],
     "src/*.{css,scss,less,json,html,md,markdown}": [
       "node_modules/.bin/prettier --write"

@@ -61,6 +61,8 @@
   },
   "lint-staged": {
     "src/**/*.tsx": [
+      "echo 1",
+      "echo 12",
       "node_modules/.bin/prettier --write",
       "git add .",
       "node_modules/.bin/eslint --fix"

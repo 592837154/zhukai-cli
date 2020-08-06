@@ -59,13 +59,22 @@
     }
   },
   "lint-staged": {
-    "src/**/*.tsx": [
-      "prettier --write",
-      "git add .",
-      "eslint --fix"
+    "src/*.{js,jsx,mjs,ts,tsx}": [
+      "node_modules/.bin/prettier --write",
+      "node_modules/.bin/eslint --fix"
     ],
-    "src/**/*.{c,le,sc}ss": [
-      "prettier --write"
+    "src/*.{css,scss,less,json,html,md,markdown}": [
+      "node_modules/.bin/prettier --write"
+    ]
+  },
+  "lint-staged": {
+    "src/**/*.tsx": [
+      "node_modules/.bin/prettier --write",
+      "git add .",
+      "node_modules/.bin/eslint --fix"
+    ],
+    "src/*.{css,scss,less,json,html,md,markdown}": [
+      "node_modules/.bin/prettier --write"
     ]
   },
   "config": {

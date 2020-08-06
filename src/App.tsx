@@ -7,7 +7,7 @@ import './AAA.css';
 function App() {
   const a = 1;
   const asd: any = window;
-  const a3 = 'asdasd';
+  const a3 = 'asd2asd';
   asd.a = a + a3;
   return (
     <div className="App">

@@ -1,13 +1,13 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.less";
-import "./App.scss";
-import "./AAA.css";
+import React from 'react';
+import logo from './logo.svg';
+import './App.less';
+import './App.scss';
+import './AAA.css';
 
 function App() {
   const a = 1;
   const asd: any = window;
-  const a3 = 1;
+  const a3 = 'asdasd';
   asd.a = a + a3;
   return (
     <div className="App">

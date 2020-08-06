@@ -11,8 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5b1be2-0cc9-4c66-88bd-2cd89c918876" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../asdasda/.cz-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asdasda/.idea/asdasda.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../asdasda/aaa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/.idea/ddddd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ddddd/src/aaa.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/antd-demo-ts.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -21,8 +29,10 @@
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
@@ -98,7 +108,8 @@
       <workItem from="1596628454818" duration="1913000" />
       <workItem from="1596681612014" duration="724000" />
       <workItem from="1596682812141" duration="849000" />
-      <workItem from="1596684578165" duration="639000" />
+      <workItem from="1596684578165" duration="862000" />
+      <workItem from="1596697747234" duration="713000" />
     </task>
     <servers />
   </component>

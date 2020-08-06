@@ -60,15 +60,16 @@
     }
   },
   "lint-staged": {
+    "src/*.{css,scss,less,json,html,md,markdown}": [
+      "prettier --write",
+      "echo css"
+    ],
     "src/**/*.tsx": [
       "echo 开始",
-      "node_modules/.bin/prettier --write",
+      "prettier --write",
       "eslint --fix",
       "git add .",
       "echo 结束"
-    ],
-    "src/*.{css,scss,less,json,html,md,markdown}": [
-      "node_modules/.bin/prettier --write"
     ]
   },
   "config": {

@@ -4,7 +4,7 @@ import './App.scss';
 import './AAA.css';
 
 function App() {
-  const a = 1;
+  const a = 21;
   const asd: any = window;
   const a3 = 'asd2asd';
   const a32 = 'asd2asd';

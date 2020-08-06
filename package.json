@@ -63,7 +63,7 @@
     "src/**/*.tsx": [
       "echo 开始",
       "node_modules/.bin/prettier --write",
-      "node_modules/.bin/eslint --fix",
+      "eslint --fix",
       "git add .",
       "echo 结束"
     ],

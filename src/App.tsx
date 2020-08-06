@@ -1,14 +1,14 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.less";
-import "./App.scss";
-import "./AAA.css";
+import React from 'react';
+import logo from './logo.svg';
+import './App.less';
+import './App.scss';
+import './AAA.css';
 
 function App() {
   const a23 = 1;
   const a12 = 22;
 
-  const asad = a23 + a12;
+  const asad = `${a23 + a12}asd`;
   console.log(asad);
 
   return (

@@ -7,7 +7,8 @@ import "./AAA.css";
 function App() {
   const a = 1;
   const asd: any = window;
-  asd.a = a;
+  const a3 = 1;
+  asd.a = a + a3;
   return (
     <div className="App">
       <header className="App-header">

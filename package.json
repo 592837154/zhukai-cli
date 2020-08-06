@@ -23,9 +23,7 @@
   },
   "eslintConfig": {
     "extends": "react-app",
-    "rules": {
-
-    }
+    "rules": {}
   },
   "browserslist": {
     "production": [
@@ -42,6 +40,8 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.8.0",
     "@typescript-eslint/parser": "^3.8.0",
+    "cz-conventional-changelog": "^3.2.0",
+    "cz-customizable": "^6.3.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
@@ -66,5 +66,10 @@
     "src/**/*.{c,le,sc}ss": [
       "prettier --write"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    }
   }
 }

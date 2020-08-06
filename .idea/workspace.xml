@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5b1be2-0cc9-4c66-88bd-2cd89c918876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cz-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asdasda/.cz-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asdasda/aaa.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/antd-demo-ts.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -20,10 +22,8 @@
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newantd/antd-demo-ts/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
@@ -78,7 +78,7 @@
     <property name="prettier.import.notification.dismissed" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,7 +98,8 @@
       <workItem from="1596624153600" duration="185000" />
       <workItem from="1596624536522" duration="1921000" />
       <workItem from="1596628454818" duration="1913000" />
-      <workItem from="1596681612014" duration="426000" />
+      <workItem from="1596681612014" duration="724000" />
+      <workItem from="1596682812141" duration="181000" />
     </task>
     <servers />
   </component>

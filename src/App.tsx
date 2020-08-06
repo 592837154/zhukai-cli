@@ -5,6 +5,9 @@ import "./App.scss";
 import "./AAA.css";
 
 function App() {
+  const a = 1;
+  const asd: any = window;
+  asd.a = a;
   return (
     <div className="App">
       <header className="App-header">

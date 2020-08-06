@@ -12,8 +12,10 @@ module.exports = {
     ecmaVersion: 11,
     sourceType: "module",
   },
-  plugins: ["react", "@typescript-eslint"],
+  plugins: ["react", "@typescript-eslint", "prettier"],
   rules: {
     "react/jsx-filename-extension": "off",
+    "prettier/prettier": "error",
+    "quotes": [1, "double"]
   },
 };
